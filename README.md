@@ -3,20 +3,38 @@
 **Tools to teach differently: learners handle things, try, and understand.**
 Built with AI by a trainer, for teachers, trainers and their students. Everything runs in the browser: no install, no account, no data sent anywhere.
 
-🇫🇷 [Version française plus bas](#-en-français)
-
-👤 Main account: [fxpar](https://github.com/fxpar) · 💼 [LinkedIn](LIEN_LINKEDIN_A_COMPLETER)
+🇫🇷 [Version française plus bas](#-en-français) · 👤 Main account: [fxpar](https://github.com/fxpar) · 💼 [LinkedIn](LIEN_LINKEDIN_A_COMPLETER)
 
 ---
 
-| Tool | For whom | What learners discover |
-|---|---|---|
-| [Star Nav](https://edu-fpar.github.io/star-nav/#level-1) | Children aged 8+, parents, primary teachers | Gravity and trajectories without a single equation: 25 levels of space navigation. |
-| [MicroLearn Studio](https://edu-fpar.github.io/micro-learning-app/) | Trainers, course designers | Turn a Markdown course into an interactive slideshow, exportable as a SCORM package for any LMS. |
-| [Perspective Grid](https://edu-fpar.github.io/perspective-grid/) | Teachers in any subject | How different viewpoints rank the same items differently. Any AI can build a grid for you. |
-| [Capital Lab](https://edu-fpar.github.io/capital-lab/) | Business schools, finance, corporate law | How you can control a company while being a minority shareholder: ownership chains, pacts, double voting rights. |
-| [Family photos](https://edu-fpar.github.io/docs-badge/) | Genealogists, teachers annotating scanned work | Sort, de-duplicate and tag photographed documents. |
-| [Services](https://edu-fpar.github.io/services/) | Computer science teachers | Teaching "vibe coding" with APIs. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/star-nav/#level-1"><img src="https://raw.githubusercontent.com/edu-fpar/star-nav/main/screenshots/hero-en.png" alt="Star Nav" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/star-nav/#level-1">Star Nav</a></b><br>
+For children aged 8+: gravity and trajectories without a single equation, in 25 levels of space navigation.
+</td>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/micro-learning-app/"><img src="https://raw.githubusercontent.com/edu-fpar/micro-learning-app/main/docs/images/studio-en.webp" alt="MicroLearn Studio" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/micro-learning-app/">MicroLearn Studio</a></b><br>
+For trainers: turn a Markdown course into an interactive slideshow, exportable as a SCORM package for any LMS.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/capital-lab/"><img src="https://raw.githubusercontent.com/edu-fpar/capital-lab/main/capital-lab-libre.png" alt="Capital Lab" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/capital-lab/">Capital Lab</a></b><br>
+For business schools: how you can control a company while being a minority shareholder.
+</td>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/perspective-grid/"><img src="https://raw.githubusercontent.com/edu-fpar/perspective-grid/main/docs/images/comparaison-devoilement-fr.png" alt="Perspective Grid" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/perspective-grid/">Perspective Grid</a></b><br>
+For any subject: how different viewpoints rank the same items differently. Any AI can build a grid for you.
+</td>
+</tr>
+</table>
+
+Also: [Family photos](https://edu-fpar.github.io/docs-badge/) (sort and tag photographed documents) · [Services](https://edu-fpar.github.io/services/) (teaching "vibe coding" with APIs).
 
 ✏️ Using one of these tools in class? Tell me how in an *issue*: your feedback helps me improve them.
 
