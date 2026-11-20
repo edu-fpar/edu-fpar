@@ -27,10 +27,18 @@ For trainers: turn a Markdown course into an interactive slideshow, exportable a
 For business schools: how you can control a company while being a minority shareholder.
 </td>
 <td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/contract-lab/"><img src="https://raw.githubusercontent.com/edu-fpar/contract-lab/main/contract-lab.png" alt="Contract Lab" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/contract-lab/">Contract Lab</a></b><br>
+For HR and labour law courses: build an employment contract clause by clause, see which safeguards make a clause valid, and walk through dismissals and other terminations step by step.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://edu-fpar.github.io/perspective-grid/"><img src="https://raw.githubusercontent.com/edu-fpar/perspective-grid/main/docs/images/comparaison-devoilement-fr.png" alt="Perspective Grid" width="100%"></a><br>
 <b><a href="https://edu-fpar.github.io/perspective-grid/">Perspective Grid</a></b><br>
 For any subject: how different viewpoints rank the same items differently. Any AI can build a grid for you.
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -51,6 +59,7 @@ Créés avec l'aide de l'IA par un formateur, pour les enseignants, les formateu
 | [MicroLearn Studio](https://edu-fpar.github.io/micro-learning-app/) | Formateurs, concepteurs de cours | Transformer un cours Markdown en diaporama interactif, exportable en SCORM. |
 | [Regards croisés](https://edu-fpar.github.io/perspective-grid/) | Enseignants de toutes disciplines | Comment plusieurs points de vue classent différemment les mêmes éléments. Une grille se crée avec n'importe quelle IA. |
 | [Capital Lab](https://edu-fpar.github.io/capital-lab/) | Écoles de commerce, finance, droit des sociétés | Comment on peut contrôler une société en étant minoritaire : chaînes de participations, pactes, droits de vote double. |
+| [Contract Lab](https://edu-fpar.github.io/contract-lab/) | Formations RH, droit du travail (BTS, licence, master) | Construire un contrat de travail clause par clause, voir les garde-fous qui rendent une clause valable et les incompatibilités, dérouler les ruptures (licenciement, rupture conventionnelle, démission…) et leurs procédures. |
 | [Mes photos de famille](https://edu-fpar.github.io/docs-badge/) | Généalogistes, enseignants qui annotent des copies scannées | Trier, dédoublonner et étiqueter des documents photographiés. |
 | [Services](https://edu-fpar.github.io/services/) | Enseignants en informatique | Enseigner le « vibe coding » avec des API. |
 
