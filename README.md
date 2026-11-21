@@ -27,9 +27,9 @@ For trainers: turn a Markdown course into an interactive slideshow, exportable a
 For business schools: how you can control a company while being a minority shareholder.
 </td>
 <td width="50%" valign="top">
-<a href="https://edu-fpar.github.io/contract-lab/"><img src="https://raw.githubusercontent.com/edu-fpar/contract-lab/main/contract-lab.png" alt="Contract Lab" width="100%"></a><br>
+<a href="https://edu-fpar.github.io/contract-lab/?lang=en"><img src="https://raw.githubusercontent.com/edu-fpar/contract-lab/main/contract-lab-en.png" alt="Contract Lab" width="100%"></a><br>
 <b><a href="https://edu-fpar.github.io/contract-lab/">Contract Lab</a></b><br>
-For HR and labour law courses: build an employment contract clause by clause, see which safeguards make a clause valid, and walk through dismissals and other terminations step by step.
+For HR and employment law courses, under English law (England & Wales) or French law: build an employment contract clause by clause, see which safeguards make a clause enforceable, and walk through dismissals, redundancy and settlement agreements step by step.
 </td>
 </tr>
 <tr>
