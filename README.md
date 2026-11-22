@@ -54,7 +54,7 @@ For trainers: turn a Markdown course into an interactive slideshow, exportable a
 </tr>
 </table>
 
-Also: [Family photos](https://edu-fpar.github.io/docs-badge/) (sort and tag photographed documents) · [Services](https://edu-fpar.github.io/services/) (teaching "vibe coding" with APIs).
+Also: [Services](https://edu-fpar.github.io/services/) (teaching "vibe coding" with APIs).
 
 ✏️ Using one of these tools in class? Tell me how in an *issue*: your feedback helps me improve them.
 
@@ -74,7 +74,6 @@ Créés avec l'aide de l'IA par un formateur, pour les enseignants, les formateu
 | [Capital Lab](https://edu-fpar.github.io/capital-lab/) | Écoles de commerce, finance, droit des sociétés | Comment on peut contrôler une société en étant minoritaire : chaînes de participations, pactes, droits de vote double. |
 | [Contract Lab](https://edu-fpar.github.io/contract-lab/) | Formations RH, droit du travail (BTS, licence, master) | Construire un contrat de travail clause par clause, voir les garde-fous qui rendent une clause valable et les incompatibilités, dérouler les ruptures (licenciement, rupture conventionnelle, démission…) et leurs procédures. |
 | [SQL Lab](https://edu-fpar.github.io/sql-lab/) | DCG (UE8), BTS, licence : systèmes d'information de gestion | S'entraîner aux requêtes SQL sur les annales du DCG 2008-2026 : résultat comparé à l'attendu, diagnostic des erreurs, schéma relationnel et processus à construire, correction pas à pas animée, export SCORM. |
-| [Mes photos de famille](https://edu-fpar.github.io/docs-badge/) | Généalogistes, enseignants qui annotent des copies scannées | Trier, dédoublonner et étiqueter des documents photographiés. |
 | [Services](https://edu-fpar.github.io/services/) | Enseignants en informatique | Enseigner le « vibe coding » avec des API. |
 
 🎬 [Ma chaîne YouTube « En parlant de bureautique, formez-vous »](https://www.youtube.com/c/enparlantdebureautiqueformezvous)
