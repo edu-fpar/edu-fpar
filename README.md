@@ -50,7 +50,11 @@ For business information systems courses: practise SQL queries in the browser, w
 <b><a href="https://edu-fpar.github.io/micro-learning-app/">MicroLearn Studio</a></b><br>
 For trainers: turn a Markdown course into an interactive slideshow, exportable as a SCORM package for any LMS.
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/latin-ukulele/"><img src="https://raw.githubusercontent.com/edu-fpar/latin-ukulele/main/img/interface.png" alt="Ukulele Latino" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/latin-ukulele/">Ukulele Latino</a></b><br>
+For music learners: a virtual Latin & swing band plays along and gradually speeds up (rhythm, chords, listening, picking). 106 exercises, extendable with any AI.
+</td>
 </tr>
 </table>
 
@@ -74,6 +78,7 @@ Créés avec l'aide de l'IA par un formateur, pour les enseignants, les formateu
 | [Capital Lab](https://edu-fpar.github.io/capital-lab/) | Écoles de commerce, finance, droit des sociétés | Comment on peut contrôler une société en étant minoritaire : chaînes de participations, pactes, droits de vote double. |
 | [Contract Lab](https://edu-fpar.github.io/contract-lab/) | Formations RH, droit du travail (BTS, licence, master) | Construire un contrat de travail clause par clause, voir les garde-fous qui rendent une clause valable et les incompatibilités, dérouler les ruptures (licenciement, rupture conventionnelle, démission…) et leurs procédures. |
 | [SQL Lab](https://edu-fpar.github.io/sql-lab/) | DCG (UE8), BTS, licence : systèmes d'information de gestion | S'entraîner aux requêtes SQL sur les annales du DCG 2008-2026 : résultat comparé à l'attendu, diagnostic des erreurs, schéma relationnel et processus à construire, correction pas à pas animée, export SCORM. |
+| [Ukulele Latino](https://edu-fpar.github.io/latin-ukulele/) | Apprentis musiciens, professeurs de musique | Un groupe virtuel (cumbia, son, bossa, swing, flamenco…) joue avec toi et accélère petit à petit : rythme, accords, écoute, picking. 106 exercices, extensibles avec une IA. |
 | [Services](https://edu-fpar.github.io/services/) | Enseignants en informatique | Enseigner le « vibe coding » avec des API. |
 
 🎬 [Ma chaîne YouTube « En parlant de bureautique, formez-vous »](https://www.youtube.com/c/enparlantdebureautiqueformezvous)
