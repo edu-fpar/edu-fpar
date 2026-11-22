@@ -3,7 +3,7 @@
 **Tools to teach differently: learners handle things, try, and understand.**
 Built with AI by a trainer, for teachers, trainers and their students. Everything runs in the browser: no install, no account, no data sent anywhere.
 
-🇫🇷 [Version française plus bas](#-en-français) · 👤 Main account: [fxpar](https://github.com/fxpar) · 💼 [LinkedIn](LIEN_LINKEDIN_A_COMPLETER)
+🇫🇷 [Version française plus bas](#-en-français) · 👤 Main account: [fxpar](https://github.com/fxpar) · 💼 [LinkedIn](https://www.linkedin.com/in/francois-parlant/)
 
 ---
 
@@ -38,7 +38,11 @@ For HR and employment law courses, under English law (England & Wales) or French
 <b><a href="https://edu-fpar.github.io/perspective-grid/">Perspective Grid</a></b><br>
 For any subject: how different viewpoints rank the same items differently. Any AI can build a grid for you.
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<a href="https://edu-fpar.github.io/sql-lab/?lang=en#demo-en/intro"><img src="https://raw.githubusercontent.com/edu-fpar/sql-lab/main/docs/img/en/cinema-sql.png" alt="SQL Lab" width="100%"></a><br>
+<b><a href="https://edu-fpar.github.io/sql-lab/?lang=en#demo-en/intro">SQL Lab</a></b><br>
+For business information systems courses: practise SQL queries in the browser, with results checked against the expected ones, error diagnosis, schema and process design questions, and animated step-by-step solutions. Built for the French DCG exams, with an English demo.
+</td>
 </tr>
 </table>
 
@@ -60,6 +64,7 @@ Créés avec l'aide de l'IA par un formateur, pour les enseignants, les formateu
 | [Regards croisés](https://edu-fpar.github.io/perspective-grid/) | Enseignants de toutes disciplines | Comment plusieurs points de vue classent différemment les mêmes éléments. Une grille se crée avec n'importe quelle IA. |
 | [Capital Lab](https://edu-fpar.github.io/capital-lab/) | Écoles de commerce, finance, droit des sociétés | Comment on peut contrôler une société en étant minoritaire : chaînes de participations, pactes, droits de vote double. |
 | [Contract Lab](https://edu-fpar.github.io/contract-lab/) | Formations RH, droit du travail (BTS, licence, master) | Construire un contrat de travail clause par clause, voir les garde-fous qui rendent une clause valable et les incompatibilités, dérouler les ruptures (licenciement, rupture conventionnelle, démission…) et leurs procédures. |
+| [SQL Lab](https://edu-fpar.github.io/sql-lab/) | DCG (UE8), BTS, licence : systèmes d'information de gestion | S'entraîner aux requêtes SQL sur les annales du DCG 2008-2026 : résultat comparé à l'attendu, diagnostic des erreurs, schéma relationnel et processus à construire, correction pas à pas animée, export SCORM. |
 | [Mes photos de famille](https://edu-fpar.github.io/docs-badge/) | Généalogistes, enseignants qui annotent des copies scannées | Trier, dédoublonner et étiqueter des documents photographiés. |
 | [Services](https://edu-fpar.github.io/services/) | Enseignants en informatique | Enseigner le « vibe coding » avec des API. |
 
