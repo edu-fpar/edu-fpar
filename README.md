@@ -80,7 +80,7 @@ For music learners of all ages: a virtual Latin & swing band plays along and gra
 <td width="50%" valign="top">
 <a href="https://edu-fpar.github.io/chess-famous-games/en/?game=opera&move=16w"><img src="https://raw.githubusercontent.com/edu-fpar/chess-famous-games/main/visuels/en/captures/key-moment-day.png" alt="Chess Famous Games" width="100%"></a><br>
 <b><a href="https://edu-fpar.github.io/chess-famous-games/en/?game=opera&move=16w">Chess Famous Games</a></b><br>
-For chess players and their teachers: replay 13 legendary games move by move, with annotated key moments, a "Guess the move" mode for the class and ready-made questions to ask an AI (then check on the board).<br>
+For chess players and their teachers: replay 14 legendary games move by move, with annotated key moments, a "Guess the move" mode for the class and ready-made questions to ask an AI (then check on the board).<br>
 <a href="https://edu-fpar.github.io/chess-famous-games/en/?game=opera&move=16w">▶ Try it</a> · <a href="https://github.com/edu-fpar/chess-famous-games">Code</a>
 </td>
 </tr>
@@ -120,7 +120,7 @@ Des jeux pour construire une intuition avant les formules et la théorie : les s
 | [Star Nav](https://edu-fpar.github.io/star-nav/#niveau-1) · [code](https://github.com/edu-fpar/star-nav) | Enfants dès 8 ans, parents, professeurs des écoles | La gravité et les trajectoires, sans une seule équation : 31 niveaux de navigation spatiale. |
 | [Strange Mind](https://edu-fpar.github.io/strange-mind/v4/#6) · [code](https://github.com/edu-fpar/strange-mind) | Enfants dès 5 ans, parents, professeurs des écoles | Des défis éclair pour sentir les rotations, les nombres complexes et les matrices, sans une seule formule (ici, la grille qui transforme). |
 | [Ukulele Latino](https://edu-fpar.github.io/latin-ukulele/) · [code](https://github.com/edu-fpar/latin-ukulele) | Apprentis musiciens de tous âges, professeurs de musique | Un groupe virtuel (cumbia, son, bossa, swing, flamenco…) joue avec toi et accélère petit à petit : rythme, accords, écoute, picking. 106 exercices, extensibles avec une IA. |
-| [Chess Famous Games](https://edu-fpar.github.io/chess-famous-games/?game=opera&move=16w) · [code](https://github.com/edu-fpar/chess-famous-games) | Joueurs d'échecs de tous âges, clubs, enseignants | Rejouer 13 parties de légende coup par coup : moments clés commentés, mode « Devinez le coup » pour la classe, questions préparées pour une IA (à vérifier sur l'échiquier). Aussi en anglais et en espagnol. |
+| [Chess Famous Games](https://edu-fpar.github.io/chess-famous-games/?game=opera&move=16w) · [code](https://github.com/edu-fpar/chess-famous-games) | Joueurs d'échecs de tous âges, clubs, enseignants | Rejouer 14 parties de légende coup par coup : moments clés commentés, mode « Devinez le coup » pour la classe, questions préparées pour une IA (à vérifier sur l'échiquier). Aussi en anglais et en espagnol. |
 
 Aussi : [Services](https://edu-fpar.github.io/services/) (enseigner le « vibe coding » avec des API).
 
